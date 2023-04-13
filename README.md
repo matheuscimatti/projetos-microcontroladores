@@ -3,7 +3,8 @@ Atividades e Projetos da Disciplina de Microcontroladores e Aplicações
 
 Linguagens e Ferramentas:
  - C
- - MPLABX
- - compilador xc8
+ - MPLAB X
+ - compilador XC8
  - simulador PicSimLab
- - com0com
+   * PIC18F4550
+   * Placa PICGenius
